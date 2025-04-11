@@ -62,6 +62,7 @@ If you need to adjust detection parameters, you can modify the arguments when ca
 ```python
 process_video(video_path, new_bg_path, output_dir, conf_threshold=0.4)  # Increase confidence threshold
 ```
+![Segmented Video Example](./image/mask.png)
 
 ## Examples
 
