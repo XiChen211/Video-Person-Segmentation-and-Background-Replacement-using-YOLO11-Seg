@@ -19,8 +19,8 @@ This project uses the YOLO11n-seg model to process videos, achieving the followi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/video-human-segmentation.git
-cd video-human-segmentation
+git clone https://github.com/XiChen211/Video-Person-Segmentation-and-Background-Replacement-using-YOLO11-Seg.git
+cd Video-Person-Segmentation-and-Background-Replacement-using-YOLO11-Seg
 ```
 
 2. Install dependencies:
